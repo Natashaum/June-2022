@@ -1,0 +1,38 @@
+html, body {
+    scroll-behavior: smooth;
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+}
+h2 {
+    background: lightgreen;
+    text-align: center;
+}
+h3{
+    background: yellow;
+    color: turquoise;
+    text-align: center;
+}
+#cart{
+    color: fuchsia;
+    background: #00ffe1;
+}
+#mg{
+    color: red;
+}
+.lsMag{
+    color: hotpink;
+}
+#br{
+    color: purple;
+}
+#hm{
+    color: blue;
+}
+p{
+    color: #6047ee;
+}
+.pict {
+    width: 350px;
+}
