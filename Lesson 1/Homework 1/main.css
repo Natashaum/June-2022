@@ -1,5 +1,6 @@
 html, body {
     scroll-behavior: smooth;
+    margin: 0;
 }
 h1{
     color: blueviolet;
@@ -36,4 +37,9 @@ p{
 }
 .pict {
     width: 350px;
+    display: block;
+    margin: auto;
+}
+.wrap {
+    background: blanchedalmond;
 }
