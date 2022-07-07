@@ -1,0 +1,41 @@
+.Father-block {
+    width: 600px;
+    margin: auto;
+}
+
+.first-in-block {
+    height: 200px;
+    width: 600px;
+    background: #0077ff;
+    font-size: xx-large;
+}
+
+.second-in-blocks {
+    box-sizing: border-box;
+    height: 200px;
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.small-in-block {
+    height: 200px;
+    width: 180px;
+    background: blue;
+    font-size: medium;
+}
+
+.third-in-block {
+    height: 500px;
+    width: 600px;
+    background: #0077ff;
+    margin-top: 20px;
+    font-size: xx-large;
+}
+.text-decor {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

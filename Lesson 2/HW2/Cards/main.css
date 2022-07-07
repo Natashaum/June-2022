@@ -1,0 +1,41 @@
+.father {
+    margin: auto;
+    height: 400px;
+    width: 1000px;
+    display: flex;
+    align-items: center;
+}
+
+.decor {
+    height: 350px;
+    width: 300px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+h2 {
+    margin-top: 60px;
+    text-align: center;
+}
+
+p {
+    font: 20px "Times New Roman";
+    color: darkgrey;
+    margin: 20px 20px 50px 20px;
+    text-align: center;
+    line-height: 35px;
+}
+
+.button-box {
+    height: 50px;
+    width: 185px;
+    margin: auto;
+    border: 1px solid black;
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+    font-size: large;
+}
