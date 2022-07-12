@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.father {
+    width: 1000px;
+    height: 600px;
+    background: #00ffff;
+    padding: 30px;
+    box-sizing: border-box;
+}
+.inside-block {
+    width: 450px;
+    height: 150px;
+    background: white;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 20px;
+}
+.fa-solid {
+    font-size: 50px;
+    margin-right: 10px;
+}
+
+.heading > h2 {
+    color: darkorange;
+    font-size: 25px;
+    margin: 0;
+}
+.heading > p {
+    margin: 0;
+}
+
+.wrap-inside-blocks {
+    display: flex;
+    justify-content: space-evenly;
+}
