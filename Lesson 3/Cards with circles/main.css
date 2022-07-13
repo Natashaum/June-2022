@@ -1,0 +1,57 @@
+
+.father {
+    margin: auto;
+    width: 1200px;
+    height: 800px;
+}
+
+.flx {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.content {
+    width: 300px;
+    height: 400px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+}
+
+.btn {
+    width: 150px;
+    height: 50px;
+    border: solid black 1px;
+    font-size: x-large;
+    margin: auto;
+}
+
+.content p {
+    font-size: large;
+    line-height: 35px;
+    margin: 20px;
+}
+
+h2 {
+    margin-top: 100px;
+}
+
+.round {
+    width: 100px;
+    height: 100px;
+    background: white;
+    border: solid 2px black;
+    border-radius: 50%;
+    color: darkorange;
+    font-size: 35px;
+    position: absolute;
+    top: -50px;
+}
+
+
+
