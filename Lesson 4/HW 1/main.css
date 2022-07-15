@@ -4,6 +4,7 @@
     border: solid 2px black;
     border-radius: 10px;
     margin: auto;
+    padding: 10px;
 }
 
 .flx {
@@ -47,6 +48,7 @@
 
     .top-box {
         background: pink;
+        border-radius: 10px;
     }
 
     .bottom-box {
@@ -57,6 +59,7 @@
     .left-box {
         width: 100%;
         background: pink;
+        border-radius: 10px;
     }
 
     .right-box {
@@ -65,5 +68,6 @@
         margin-top: 10px;
         margin-left: 0;
         background: pink;
+        border-radius: 10px;
     }
 }
