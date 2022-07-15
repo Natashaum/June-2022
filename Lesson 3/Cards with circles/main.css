@@ -31,6 +31,10 @@
     margin: auto;
 }
 
+a {
+    text-decoration: none;
+}
+
 .content p {
     font-size: large;
     line-height: 35px;
